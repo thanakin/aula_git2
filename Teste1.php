@@ -6,6 +6,8 @@ class Teste1 {
     // declaração de método
     public function exibeVariavel() {
         echo $this->variavel;
+
+        /* testando nova branch */
     }
 }
 ?>
