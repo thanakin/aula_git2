@@ -2,6 +2,8 @@
 
 #### Arquivos de exemplo para utilização basica/incial do Git (foco na criação de branch's).
 
+## Iniciando...
+
 ##### Procedimentos locais
 * Criar a pasta do repositorio local, ex.: `aula_git2`
 * Entrar na pasta: `cd aula_git2`
@@ -18,6 +20,11 @@
 * enviar os arquivos "commitados" ao repositorio remoto: `git push`
 * inserir **usuario** e **senha** do git
 
+<hr>
+
+## Criando uma nova Branch
+
+no terminal: `git checkout -b novabranch`
 
 #### Link da playlist: 
 <https://www.youtube.com/watch?v=NR9jc5ODvuM&list=PL8iIphQOyG-BZ2y75BepyrFz-wqOIOHvf>
